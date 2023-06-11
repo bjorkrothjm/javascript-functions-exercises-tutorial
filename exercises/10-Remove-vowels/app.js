@@ -1,4 +1,3 @@
-
 const rapid = (myString) => {
     // Your code goes here
     let newString ="" 
@@ -13,6 +12,7 @@ const rapid = (myString) => {
     }
     return newString;
 };
+
 
 // Work above this line; do not change code below
 let str = "John";
